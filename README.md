@@ -2,7 +2,5 @@
 Animated Product Card with the help of HTML CSS& JS
 
 - Go Test Here : [Site](https://nike-kd12.netlify.app/)
-- After 1st visit you can turn off your data conn. and reload the page it should work just fine.
-
-![preview](preview.gif)
-
+  
+![preview](https://github.com/Aashishh1/KD-12.-Nike-Card/assets/118424908/7fc72f2c-fa2e-428c-a61f-75d21a134e75)
