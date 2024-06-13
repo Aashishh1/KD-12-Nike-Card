@@ -1,5 +1,5 @@
+<div align='center'><img style="width:30%" src='https://github.com/Aashishh1/KD-12-Nike-Card/assets/118424908/4d69fa8e-6c3e-49f9-b1c0-33dd07139765'/></div>
 
-![running-shoes](https://github.com/Aashishh1/KD-12-Nike-Card/assets/118424908/b675fe85-00f8-4b49-94e6-0c007149cca3)
 
 # KD-12-Nike-Product-Card
 Animated Product Card with the help of HTML CSS& JS.✨
