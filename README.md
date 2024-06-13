@@ -1,4 +1,4 @@
-                 #(https://www.flaticon.com/free-icon/run_1764360?term=running+shoes&page=1&position=30&origin=search&related_id=1764360)
+![kd-12](https://github.com/Aashishh1/KD-12-Nike-Card/assets/118424908/cebc28fa-8873-47c8-8393-5191023a2014)
 
 # KD-12-Nike-Product-Card
 Animated Product Card with the help of HTML CSS& JS.✨
